@@ -9,7 +9,7 @@
 <h3 align="center">Dev-Back-End residente em Santa catarina/Brasil.</h3>
 <p align="center">Estou navegando nas águas da programação, buscando aprender com profissionais mais experientes e demonstrar todo o meu potencial. Meu objetivo é criar soluções para transformar este mundo complexo em um lugar melhor.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manoelvictorjs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?manoelvictorjs=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manoelvictorjs" /> </p>
 
 
 - 🔭 Atualmente, atuo como Técnico Eletricista Naval, enquanto desenvolvo projetos como desenvolvedor freelancer.
