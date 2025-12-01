@@ -21,7 +21,7 @@
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,javascript,next.js,react,java,typescript)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,javascript,next,react,java,typescript)]()
 
 
 <h3 align="left">Entre em contato comigo:</h3>
