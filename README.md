@@ -7,21 +7,21 @@
 
 <h1 align="center">Olá 👋, Eu sou Manoel Victor</h1>
 <h3 align="center">Dev-Back-End residente em Santa catarina/Brasil.</h3>
-<p align="center">Estou navegando nessas águas da programação buscando aprender com profissionais mais experientes e monsta todo meu potencial, criando soluções para transforma esse mundo complexo em um lugar melhor.</p>
+<p align="center">Estou navegando nas águas da programação, buscando aprender com profissionais mais experientes e demonstrar todo o meu potencial. Meu objetivo é criar soluções para transformar este mundo complexo em um lugar melhor.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manoelvictorjs" /> </p>
 
 
-- 🔭 Atualmente, eu trabalho em freelancer.
+- 🔭 Atualmente, atuo como Técnico Eletricista Naval, enquanto desenvolvo projetos como desenvolvedor freelancer.
 
-- 🌱 Meus estudos atuais focam em **Back End (Go, java and TypeScript)** .
+- 🌱 Meus estudos atuais focam em **Back End (javascript, java,  typeScript , next.js)** .
 
 - 📫 Este é meu e-mail para contato: **ManoelVictorDeJesus@outlook.com**
 
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,go,java,typescript)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,javascript,next.js,react,java,typescript)]()
 
 
 <h3 align="left">Entre em contato comigo:</h3>
