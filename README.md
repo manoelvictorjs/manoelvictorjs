@@ -58,8 +58,9 @@ Tenho um foco profundo em **arquitetura, desempenho, código limpo e soluções 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manoelvictorjs&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelvictorjs&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manoelvictorjs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manoelvictorjs&layout=compact&theme=tokyonight&hide_langs=html,css" />
 </p>
 
 ---
