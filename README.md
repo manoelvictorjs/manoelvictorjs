@@ -9,15 +9,20 @@ Tenho um foco profundo em **arquitetura, desempenho, código limpo e soluções 
 🌐 Onde me encontrar:
 
 <p align="left">
-  <a href="https://meu-portf-lio-bay.vercel.app/">
-    <img src="https://img.shields.io/badge/GitHub-manoelvictorjs-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/manoelvictorjs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/manoel.sanntos">
-     <img src="https://img.shields.io/badge/Instagram-@manoel.sanntos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  
+  <a href="https://meu-portf-lio-bay.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-0078D4?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio" />
   </a>
+
+  <a href="https://instagram.com/manoel.sanntos" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/manoel-victor-b6a45b333">
-    <img src="https://img.shields.io/badge/manoel-victor-b6a45b333?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/manoel-victor-b6a45b333" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
