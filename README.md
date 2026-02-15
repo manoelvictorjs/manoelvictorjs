@@ -12,11 +12,8 @@ Tenho um foco profundo em **arquitetura, desempenho, código limpo e soluções 
   <a href="https://meu-portf-lio-bay.vercel.app/">
     <img src="https://img.shields.io/badge/GitHub-manoelvictorjs-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/manoel.sanntos">
-  </a>
-  </a>
-  <a href="https://www.linkedin.com/in/manoel-victor-b6a45b333">
-  </a>
+  <a href="https://instagram.com/manoel.sanntos"></a>
+  <a href="https://www.linkedin.com/in/manoel-victor-b6a45b333"></a>
 </p>
 
 ---
