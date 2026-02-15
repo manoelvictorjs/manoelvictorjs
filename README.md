@@ -19,6 +19,9 @@ Tenho um foco profundo em **arquitetura, desempenho, código limpo e soluções 
   <a href="https://www.linkedin.com/in/manoel-victor-b6a45b333">
     <img src="https://img.shields.io/badge/LinkedIn-manoel--victor--b6a45b333-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://meu-portf-lio-bay.vercel.app/">
+   
+  </a>
 </p>
 
 ---
