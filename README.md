@@ -14,8 +14,8 @@
 <a href="https://github.com/manoelvictorjs" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://meu-portf-lio-bay.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+<a href="https://portfoliomanoel.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-0078D4?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio" />
 </a>
 <a href="https://www.linkedin.com/in/manoel-victor-b6a45b333" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -27,6 +27,22 @@
 <br/><br/>
 
 🇧🇷 **Brasil** · Desenvolvedor focado em produtos que escalam
+
+</div>
+
+---
+
+## 🌐 Portfólio
+
+<div align="center">
+
+Conheça meus projetos, stack e cases em produção.
+
+<br/>
+
+<a href="https://portfoliomanoel.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Acessar_Portfólio-portfoliomanoel.vercel.app-3b82f6?style=for-the-badge&labelColor=0d1117" alt="Portfólio principal" />
+</a>
 
 </div>
 
@@ -123,6 +139,12 @@ const manoel = {
 ⭐ Se curtiu algum projeto, deixa uma **estrela** — ajuda muito!
 
 🤝 **Aberto a colaborações, parcerias e ideias inovadoras**
+
+<br/>
+
+<a href="https://portfoliomanoel.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Portfólio→-60a5fa?style=for-the-badge&labelColor=1e3a5f" alt="Portfólio" />
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3b82f6,100:60a5fa&height=80&section=footer" width="100%" />
 
